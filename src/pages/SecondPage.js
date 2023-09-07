@@ -1,7 +1,7 @@
 import React, {useEffect} from "react";
 import {useNavigate} from "react-router-dom";
 
-const About = () => {
+const SecondStep = () => {
     const element = document.getElementById('actionButton')
     const navigation = useNavigate()
     console.log(element);
@@ -33,4 +33,4 @@ const About = () => {
     )
 };
 
-export default About;
+export default SecondStep;
