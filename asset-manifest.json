@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/safari-ext-helper/static/css/main.af9bde1a.css",
-    "main.js": "/safari-ext-helper/static/js/main.604cd167.js",
+    "main.js": "/safari-ext-helper/static/js/main.d065d727.js",
     "static/js/787.2fc63c9a.chunk.js": "/safari-ext-helper/static/js/787.2fc63c9a.chunk.js",
     "static/media/Cool.png": "/safari-ext-helper/static/media/Cool.03938bb8a96762ea1fe3.png",
     "static/media/CrewIcon.png": "/safari-ext-helper/static/media/CrewIcon.3e97351749199ef4c773.png",
@@ -10,11 +10,11 @@
     "static/media/AAonWeb.png": "/safari-ext-helper/static/media/AAonWeb.1e7ad4c0c0c5b8163026.png",
     "index.html": "/safari-ext-helper/index.html",
     "main.af9bde1a.css.map": "/safari-ext-helper/static/css/main.af9bde1a.css.map",
-    "main.604cd167.js.map": "/safari-ext-helper/static/js/main.604cd167.js.map",
+    "main.d065d727.js.map": "/safari-ext-helper/static/js/main.d065d727.js.map",
     "787.2fc63c9a.chunk.js.map": "/safari-ext-helper/static/js/787.2fc63c9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af9bde1a.css",
-    "static/js/main.604cd167.js"
+    "static/js/main.d065d727.js"
   ]
 }
