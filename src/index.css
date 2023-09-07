@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1 {
+  font-size: 24px;
+  line-height: 24px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 18px;
+}
+
+
+.greyContainer {
+  display: flex;
+  flex-direction: column;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-radius: 10px;
+  background-color: #F6F6F6;
+  margin-bottom: 10px;
+}
+.imagePng {
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+
+.mainImg {
+  height: 50px;
+}
+
+.mainIconDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.text {
+  text-align: center;
+}
+
+.coolImg {
+  margin-top: 100px;
+  height: 150px;
+}
+
+.finalText {
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  font-size: 36px;
+  padding-bottom: 20px;
+}
+
+.linkToApp {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  padding: 15px 120px;
+}
+
+.buttonDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 52px;
+  background-color: black;
+  border-radius: 26px;
+}
