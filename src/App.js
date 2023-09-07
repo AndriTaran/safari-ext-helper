@@ -10,8 +10,8 @@ function App() {
           <div>
         <Routes>
           <Route exact path="/safari-ext-helper" element={ <Home />}/>
-          <Route path="/secondStep" element={<SecondStep />}/>
-            <Route path='/finalPage' element={<FinalPage />}/>
+          <Route path="/safari-ext-helper/secondStep" element={<SecondStep />}/>
+            <Route path='/safari-ext-helper/finalPage' element={<FinalPage />}/>
         </Routes>
           </div>
   );

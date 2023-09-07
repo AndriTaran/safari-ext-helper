@@ -7,7 +7,7 @@ const SecondStep = () => {
     console.log(element);
     useEffect(()=>{
         if (element?.innerHTML) {
-            navigation('/finalPage')
+            navigation('/safari-ext-helper/finalPage')
         }
     }, [element, navigation])
     return (
